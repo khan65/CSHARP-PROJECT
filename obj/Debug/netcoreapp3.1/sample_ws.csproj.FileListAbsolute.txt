@@ -1,0 +1,13 @@
+/home/anamul/Desktop/sample_ws/obj/Debug/netcoreapp3.1/sample_ws.csprojAssemblyReference.cache
+/home/anamul/Desktop/sample_ws/obj/Debug/netcoreapp3.1/sample_ws.AssemblyInfoInputs.cache
+/home/anamul/Desktop/sample_ws/obj/Debug/netcoreapp3.1/sample_ws.AssemblyInfo.cs
+/home/anamul/Desktop/sample_ws/obj/Debug/netcoreapp3.1/sample_ws.csproj.CoreCompileInputs.cache
+/home/anamul/Desktop/sample_ws/bin/Debug/netcoreapp3.1/sample_ws
+/home/anamul/Desktop/sample_ws/bin/Debug/netcoreapp3.1/sample_ws.deps.json
+/home/anamul/Desktop/sample_ws/bin/Debug/netcoreapp3.1/sample_ws.runtimeconfig.json
+/home/anamul/Desktop/sample_ws/bin/Debug/netcoreapp3.1/sample_ws.runtimeconfig.dev.json
+/home/anamul/Desktop/sample_ws/bin/Debug/netcoreapp3.1/sample_ws.dll
+/home/anamul/Desktop/sample_ws/bin/Debug/netcoreapp3.1/sample_ws.pdb
+/home/anamul/Desktop/sample_ws/obj/Debug/netcoreapp3.1/sample_ws.dll
+/home/anamul/Desktop/sample_ws/obj/Debug/netcoreapp3.1/sample_ws.pdb
+/home/anamul/Desktop/sample_ws/obj/Debug/netcoreapp3.1/sample_ws.genruntimeconfig.cache
